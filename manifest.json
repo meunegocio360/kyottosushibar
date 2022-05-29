@@ -1,8 +1,4 @@
 {
- "name": "Kyotto Sushi - Tour Virtual 360°",
- "description": "Rua Américo Vazone, N°99 - Jardim Tereza Maria, Itapecerica da Serra - SP, 06850-100",
- "display": "fullscreen",
- "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +36,10 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm",
- "theme_color": "#FFFFFF"
+ "name": "Kyotto Sushi - Tour Virtual 360°",
+ "description": "Rua Américo Vazone, N°99 - Jardim Tereza Maria, Itapecerica da Serra - SP, 06850-100",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm"
 }

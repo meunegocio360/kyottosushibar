@@ -5,10 +5,14 @@
 ### URL
 LinkBehaviour_535333B7_42B4_2564_41C6_AB52516F389D.source = http://www.loremipsum.com
 LinkBehaviour_631EA84D_42F4_2324_41CA_FA4A7AC17209.source = http://www.loremipsum.com
-LinkBehaviour_6326282D_42F4_2364_41B9_3C539994C358.source = https://linklist.bio/kyottosushi
 LinkBehaviour_5352C3B7_42B4_256F_41C1_03738D670FD9.source = https://linklist.bio/kyottosushi
+LinkBehaviour_6326282D_42F4_2364_41B9_3C539994C358.source = https://linklist.bio/kyottosushi
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+LinkBehaviour_0279B16E_0D29_E6A3_4190_C0D71A8F3486.source = https://www.instagram.com/kyottosushi/
+LinkBehaviour_03DABEC6_0D29_9BE2_419E_11EF68735741.source = https://www.instagram.com/kyottosushi/
+LinkBehaviour_03FB4077_0D17_A6A1_41A3_7C9C5854A784.source = https://www.instagram.com/meunegocioweb360/
+LinkBehaviour_02C8A019_0D17_A66E_4172_1F01B02EBCDB.source = https://www.instagram.com/meunegocioweb360/
 
 ## Media
 
@@ -47,6 +51,8 @@ Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4_mobile.label = lorem ipsum
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4.label = lorem ipsum
 
 ### Image
+Image_00027EAB_0D19_BBA1_4171_29365DB91CA6.url = skin/Image_00027EAB_0D19_BBA1_4171_29365DB91CA6_pt.png
+Image_03072493_0D16_AE62_41A2_5E66D1E2C82A.url = skin/Image_03072493_0D16_AE62_41A2_5E66D1E2C82A_pt.png
 Image_16B75461_1B87_4970_41B9_4F94F65FB1C1_mobile.url = skin/Image_16B75461_1B87_4970_41B9_4F94F65FB1C1_mobile_pt.jpg
 Image_16B75461_1B87_4970_41B9_4F94F65FB1C1.url = skin/Image_16B75461_1B87_4970_41B9_4F94F65FB1C1_pt.jpg
 Image_182FD4E7_17B7_EF41_41AA_D495544C1972_mobile.url = skin/Image_182FD4E7_17B7_EF41_41AA_D495544C1972_mobile_pt.jpg
